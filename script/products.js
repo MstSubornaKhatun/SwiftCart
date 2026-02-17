@@ -194,3 +194,4 @@ async function loadProducts(category = "") {
 updateCartCount();
 loadCategories();
 loadProducts();
+
