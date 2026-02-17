@@ -78,3 +78,4 @@ async function loadTrendingProducts() {
 
 updateCartCount();
 loadTrendingProducts();
+
